@@ -2,7 +2,8 @@
     background-color: rgb(255, 167, 167);
 }
 
-#three {
+.odd-but-bigger {
+    background-color: rgb(255, 167, 167);
     font-size: 30px;
 }
 
